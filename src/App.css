@@ -1,0 +1,4 @@
+.ag-theme-alpine {
+  --ag-font-size: 40px;
+  z-index: -unset !important;
+}

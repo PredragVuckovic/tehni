@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Pera",
+      "lastName": "Peric",
+      "userName": "Perrra",
+      "email": "Perra@gmail.com",
+      "phone": "065478221",
+      "adress": " Cecina 13",
+      "salary": 650
+    },
+    {
+      "firstName": "Dragan",
+      "lastName": "Dragić",
+      "userName": "Draga",
+      "email": "draga@gmail.com",
+      "phone": "0548542568",
+      "adress": "Cara Lazara 19",
+      "salary": "750",
+      "id": 2
+    },
+    {
+      "firstName": "Steva",
+      "lastName": "Stević",
+      "userName": "Stevke",
+      "email": "stevke@gmail.com",
+      "phone": "785481556",
+      "adress": "Zmaj Jovina 54",
+      "salary": "660",
+      "id": 3
+    },
+    {
+      "firstName": "Stefan",
+      "lastName": "Stefić",
+      "userName": "Stefika",
+      "email": "stefika@gmail.com",
+      "phone": "06587115548",
+      "adress": "Darka Lazica 18",
+      "salary": "720",
+      "id": 4
+    },
+    {
+      "firstName": "Joe",
+      "lastName": "Doe",
+      "userName": "JoeDoe",
+      "email": "joe@gmail.com",
+      "phone": "0647822314",
+      "adress": "New York",
+      "salary": "950",
+      "id": 5
+    },
+    {
+      "firstName": "Svetlana",
+      "lastName": "Svetić",
+      "userName": "svetica",
+      "email": "svetica@gmail.com",
+      "phone": "06325754",
+      "adress": "Čiča Perina 74",
+      "salary": "555",
+      "id": 6
+    },
+    {
+      "firstName": "Olga",
+      "lastName": "Olgić",
+      "userName": "Ola",
+      "email": "ola@gmail.com",
+      "phone": "065784231",
+      "adress": "Cecina 18",
+      "salary": "850",
+      "id": 7
+    },
+    {
+      "firstName": "Miroslav",
+      "lastName": "Antic",
+      "userName": "miki",
+      "email": "miki@gmail.com",
+      "phone": "0785422",
+      "adress": "Maksima Gorkog",
+      "salary": "600",
+      "id": 8
+    },
+    {
+      "firstName": "Maja",
+      "lastName": "Majic",
+      "userName": "Maaja",
+      "email": "maja@gmail.com",
+      "phone": "04785466588",
+      "adress": "Maršala Tita 15",
+      "salary": "750",
+      "id": 9
+    },
+    {
+      "firstName": "Kapućinka",
+      "lastName": "Kapućinkić",
+      "userName": "Kapućinka",
+      "email": "kapa@gmail.com",
+      "phone": "04785519655",
+      "adress": "Bore Prodanovića 4",
+      "salary": "990",
+      "id": 10
+    },
+    {
+      "firstName": "Isak ",
+      "lastName": "Njutn",
+      "userName": "ISI",
+      "email": "isak@gmail.com",
+      "phone": "065741258",
+      "adress": "Toplice Milana 24",
+      "salary": "650",
+      "id": 11
+    },
+    {
+      "firstName": "Sandra",
+      "lastName": "Sandrić",
+      "userName": "Sarrra",
+      "email": "sarra@gmail.com",
+      "phone": "065574488",
+      "adress": "Petra Drapšina 89",
+      "salary": "800",
+      "id": 12
+    }
+  ]
+}
